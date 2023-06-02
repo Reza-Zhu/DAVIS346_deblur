@@ -1,0 +1,9 @@
+dv_processing==9999.dev0+gitb55a2e7
+einops==0.6.1
+matplotlib==3.7.1
+numpy==1.24.2
+opencv_python==4.7.0.72
+Pillow==9.4.0
+Pillow==9.5.0
+torch==2.0.0
+torchvision==0.15.1
